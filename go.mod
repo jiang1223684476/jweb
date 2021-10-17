@@ -1,3 +1,3 @@
-module JWeb
+module jweb
 
 go 1.17
