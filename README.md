@@ -11,12 +11,13 @@ go get -u github.com/jiang1223684476/jweb
 package main
 
 import (
-	"JWeb/app"
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/jiang1223684476/jweb/app"
 	"html/template"
 	"io/ioutil"
+
 	"log"
 	"net/http"
 	"path"
@@ -188,6 +189,7 @@ func main() {
 	// run applications in specify address
 	app.Run(address)
 }
+
 ```
 
 ## Have fun!
