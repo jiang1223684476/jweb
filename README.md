@@ -1,4 +1,4 @@
-# Jweb
+# JWeb
 * Http web frame with Go Programming Language
 
 ## Install
