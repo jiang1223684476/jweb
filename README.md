@@ -3,7 +3,7 @@
 
 ## Install
 ```
-
+go get -u github.com/jiang1223684476/jweb
 ```
 
 ## How to use?
